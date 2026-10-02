@@ -1,0 +1,73 @@
+{
+  "description": "BusAware demonstration route for the Srikakulam District NH16 Palle Velugu corridor. Coordinates are demo configuration points for the final-year project and are not official APSRTC operational data.",
+  "routeId": "R-SKLM-SMP-01",
+  "routeName": "Srikakulam RTC Complex to Kanchili Bypass (Palle Velugu)",
+  "routeCode": "R-SKLM-SMP-01",
+  "serviceType": "PALLE_VELUGU_ORDINARY",
+  "farePerStage": 35,
+  "bus": {
+    "busId": "AP30Z1234",
+    "registrationNumber": "AP 30 Z 1234",
+    "depot": "SKLM-1",
+    "capacity": 50,
+    "serviceNumber": "4289"
+  },
+  "stages": [
+    {
+      "stageId": "STAGE_01",
+      "stageName": "Srikakulam RTC Complex (Depot)",
+      "latitude": 18.297,
+      "longitude": 83.8965,
+      "sequence": 1,
+      "routeId": "R-SKLM-SMP-01"
+    },
+    {
+      "stageId": "STAGE_02",
+      "stageName": "Narasannapeta Bus Stand",
+      "latitude": 18.4193,
+      "longitude": 84.0479,
+      "sequence": 2,
+      "routeId": "R-SKLM-SMP-01"
+    },
+    {
+      "stageId": "STAGE_03",
+      "stageName": "Tekkali RTC Bus Station",
+      "latitude": 18.6042,
+      "longitude": 84.2303,
+      "sequence": 3,
+      "routeId": "R-SKLM-SMP-01"
+    },
+    {
+      "stageId": "STAGE_04",
+      "stageName": "Polavaram",
+      "latitude": 18.591,
+      "longitude": 84.225,
+      "sequence": 4,
+      "routeId": "R-SKLM-SMP-01"
+    },
+    {
+      "stageId": "STAGE_05",
+      "stageName": "Palasa",
+      "latitude": 18.769,
+      "longitude": 84.417,
+      "sequence": 5,
+      "routeId": "R-SKLM-SMP-01"
+    },
+    {
+      "stageId": "STAGE_06",
+      "stageName": "Sompeta",
+      "latitude": 18.928,
+      "longitude": 84.588,
+      "sequence": 6,
+      "routeId": "R-SKLM-SMP-01"
+    },
+    {
+      "stageId": "STAGE_07",
+      "stageName": "Kanchili Bypass Bus Stop",
+      "latitude": 18.98707,
+      "longitude": 84.58949,
+      "sequence": 7,
+      "routeId": "R-SKLM-SMP-01"
+    }
+  ]
+}
